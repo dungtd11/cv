@@ -1,0 +1,12 @@
+Dear R&D Team at LG CNS,
+
+I am writing to apply for the Mobile Android Developer position at LG  . I have solid experience working with Android SDK, Kotlin, Jetpack components (ViewModel, Room, Navigation, Compose), architectural patterns such as MVP/MVVM/MVI, Clean Architecture, API integration, Git, and multithreading using Coroutines/Flow. I always strive to build efficient, high-quality, and maintainable applications.
+
+I am very impressed with Beetech and its working environment, and I believe that my skills align well with the job requirements and your company's culture.
+
+Please find my attached CV for more details regarding my experience. I look forward to the opportunity to discuss my application further in an interview.
+
+Thank you very much for your time and consideration.
+
+Sincerely,
+Vũ Bá Nin
