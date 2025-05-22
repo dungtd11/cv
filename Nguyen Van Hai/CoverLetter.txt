@@ -1,0 +1,14 @@
+Dear HR Department,
+
+My name is Nguyễn Văn Hải, and I am writing to express my strong interest in the Fresher Java Developer position at your esteemed company.
+
+I have recently graduated with a degree in Information Technology and have completed a 6-month internship at Bachkhoa-Aptech, where I worked on a full backend knowledge-sharing website using Spring Boot. Over the past 3 years, I have continuously deepened my expertise in the Spring Boot framework, and have independently built several practical projects utilizing Microservice Architecture, RESTful APIs, and modern development tools.
+
+After learning about this opportunity via [source of the job post] and discussions within the developer community on Facebook, I am truly excited about the chance to contribute to your projects and grow within a dynamic and professional environment.
+
+Please find attached my CV for your reference. I would be very grateful for the opportunity to further discuss how I can be a valuable addition to your team in a personal interview.
+
+Thank you for your time and consideration.
+
+Best regards,
+Nguyễn Văn Hải
